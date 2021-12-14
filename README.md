@@ -1,5 +1,5 @@
 # Loan-Case-Study
-## The Datasets Used are :
+## The Datasets Used Are :
 ‘application_data.csv‘ : Contains all the information of the client at the time of application.
 The data is about whether a client has payment difficulties.
 
